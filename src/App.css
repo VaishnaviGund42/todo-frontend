@@ -65,3 +65,12 @@ button:hover {
   text-decoration: line-through;
   color: gray;
 }
+.save-btn {
+  margin-right: 10px ;
+  margin-left: 10px;
+}
+
+.cancel-btn {
+  margin-left: 10px;
+}
+.edit-btn { margin-right: 10px; }.delete-btn { margin-left: 10px; }
